@@ -1,0 +1,26 @@
+#include <stdio.h>
+#include <math.h>
+int maiin()
+{
+
+double X;
+float y1,y2,y3;
+
+	printf("Ingresa un número real: \n");
+	scanf("%f",&x);
+	pi=3.1416;
+	rad=(x*pi)/180;
+	y1=exp(-x);
+	y2=((cos(rad))+(2*tan(rad/2));
+	y3=log10(x)+(3*x*x);
+	
+	
+	printf("exp(-x)=%f \n",y1);
+	printf("((cos(rad))+(2*tan(rad/2))=%f \n",y2);
+	printf("Kelvin=%f \n",y3);
+
+
+
+
+return 0;
+}
