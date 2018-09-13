@@ -1,0 +1,4 @@
+El numero de estudiantes es: 1 
+1 
+Se registraron 10 estudiantes, de los cuales 32679 son mujeres y 0 son hombres 
+El promedio de las calificaciones de los estudiantes es: 327577056.000000

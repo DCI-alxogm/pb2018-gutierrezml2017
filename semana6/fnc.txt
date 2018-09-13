@@ -1,0 +1,6 @@
+El resultado de las funciones evaluadas es:	exp=148.413162 	 sen=-0.958924 	 cos=0.283662 	 sqrt=1.609438 	 log=nan 
+exp=148.413162 	 sen=-0.958924 	 cos=0.283662 	 sqrt=1.609438 	 log=nan 
+exp=148.413162 	 sen=-0.958924 	 cos=0.283662 	 sqrt=1.609438 	 log=nan 
+exp=148.413162 	 sen=-0.958924 	 cos=0.283662 	 sqrt=1.609438 	 log=nan 
+exp=148.413162 	 sen=-0.958924 	 cos=0.283662 	 sqrt=1.609438 	 log=nan 
+exp=148.413162 	 sen=-0.958924 	 cos=0.283662 	 sqrt=1.609438 	 log=nan 
