@@ -2,6 +2,7 @@
 
 int main(){
 printholamake();
+void cuadrado();
 
 return 0;
 
