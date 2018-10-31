@@ -1,0 +1,4 @@
+
+
+ la nueva temperatura es
+x[2]=0.000000
